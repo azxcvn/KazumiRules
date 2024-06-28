@@ -1,0 +1,17 @@
+{
+    "api": "1",
+    "type": "anime",
+    "name": "iYH",
+    "version": "1.0",
+    "muliSources": true,
+    "useWebview": true,
+    "useNativePlayer": false,
+    "userAgent": "",
+    "baseURL": "http://www.iyinghua.io/",
+    "searchURL":"http://www.iyinghua.io/search/@keyword/",
+    "searchList": "//div[4]/div[2]/div/ul//li",
+    "searchName": "//h2/a",
+    "searchResult": "//h2/a",
+    "chapterRoads": "//div[2]/div[2]/div[4]/div/div/ul",
+    "chapterResult": "//li/a"
+}
