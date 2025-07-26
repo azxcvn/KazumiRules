@@ -3,7 +3,7 @@
     "api": "1",
     "type": "anime",
     "name": "ziyedm",
-    "version": "1.2",
+    "version": "1.3",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
